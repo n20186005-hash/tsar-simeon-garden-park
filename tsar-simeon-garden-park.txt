@@ -25,6 +25,21 @@ tsar-simeon-garden-park
 Plovdiv Center, ul. "Veliko Tarnovo" 11А, 4000 Plovdiv, 保加利亚
 4PRW+JP 普罗夫迪夫 保加利亚
 
+
+
+
+表单字段	填写内容	说明
+国家 / 地区 *	保加利亚（Bulgaria）	下拉选择即可
+地址行 1*	ul. "Veliko Tarnovo" 11А	填写街道名称 + 门牌号（保加利亚地址标准写法）
+地址行 2	Plovdiv Center, Tsar Simeon Garden	补充街区 / 公园名称，可留空
+城市 *	Plovdiv（普罗夫迪夫）	填写城市名
+省 / 自治区 / 直辖市 *	Plovdiv Province（普罗夫迪夫州）	对应保加利亚的省级行政区 “州（oblast）”
+邮政编码 *	4000	普罗夫迪夫市中心的标准邮编
+
+
+
+
+
 单景点买域名推荐.com
 
 1、
@@ -39,7 +54,7 @@ Plovdiv Center, ul. "Veliko Tarnovo" 11А, 4000 Plovdiv, 保加利亚
 
 3、
 
-
+交通指南 要写清楚怎么去这个地方
 
 https://maps.app.goo.gl/toDts5VqGcTJ4NhLA
 
