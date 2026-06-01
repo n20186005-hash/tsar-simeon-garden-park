@@ -1,0 +1,299 @@
+{
+  "meta": {
+    "title": "Tsar Simeon Garden Park – Plovdiv, Bulgaria",
+    "description": "Complete travel guide to Tsar Simeon Garden Park in Plovdiv. Learn about this historic park, including location, attractions, access, and visitor information."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Tsar Simeon Garden Park",
+    "subtitle": "Historic Park · Plovdiv, Bulgaria",
+    "rating": "4.8",
+    "reviewCount": "16,786 reviews",
+    "type": "Park",
+    "openMaps": "View on Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/toDts5VqGcTJ4NhLA"
+  },
+  "intro": {
+    "title": "Discover Tsar Simeon Garden Park",
+    "description": "Tsar Simeon Garden Park is one of the most beautiful and historic parks in Plovdiv. Created in the late 19th century, it offers a unique combination of natural beauty, historic architecture, and cultural heritage.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "Best time to visit is spring when flowers are blooming.",
+        "The park is ideal for walks and picnics.",
+        "Wear comfortable shoes for walking.",
+        "Don't miss the Water Tower and historic statues."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "19th century Water Tower",
+        "Beautiful flower alleys",
+        "Historic statues and monuments",
+        "Expansive green areas"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "About Tsar Simeon Garden Park",
+    "sections": [
+      {
+        "id": "history",
+        "title": "History & Creation",
+        "content": "Tsar Simeon Garden Park was created in 1891-1892 according to the design of the famous Swiss landscape architect Lucien Cheriot. The park is named after Tsar Simeon I, who ruled Bulgaria in the 9th and 10th centuries."
+      },
+      {
+        "id": "architecture",
+        "title": "Architecture & Design",
+        "content": "The park was designed in the typical style of its time with wide alleys, decorative ponds, and diverse vegetation. The Water Tower, built in 1891, is one of the symbols of Plovdiv."
+      },
+      {
+        "id": "geography",
+        "title": "Location & Nature",
+        "content": "Located in the center of Plovdiv, the park covers an area of about 18 hectares. It offers cool shade in summer and is a favorite place for walks for both locals and tourists."
+      },
+      {
+        "id": "protection",
+        "title": "Preservation & Management",
+        "content": "The park is maintained by Plovdiv Municipality and is a protected area. Over the years, numerous restorations have been carried out to preserve its historical appearance."
+      }
+    ]
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "items": [
+      {
+        "question": "What are the opening hours of the park?",
+        "answer": "The park is open to visitors year-round, 24 hours a day. There is no entrance fee."
+      },
+      {
+        "question": "Is there an entrance fee?",
+        "answer": "No, entrance to Tsar Simeon Garden Park is free for all visitors."
+      },
+      {
+        "question": "Are there guided tours available?",
+        "answer": "The park can be explored independently. Information signs in several languages are placed at key locations."
+      },
+      {
+        "question": "Is the park accessible for wheelchair users?",
+        "answer": "Yes, the main alleys are flat and accessible for wheelchairs. There are also special paths for people with reduced mobility."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Tsar Simeon Garden Park („Цар Симеонова градина“)",
+    "type": "Attraction Type",
+    "typeValue": "Historic Park / Garden",
+    "country": "Country",
+    "countryValue": "Bulgaria",
+    "city": "City",
+    "cityValue": "Plovdiv",
+    "googleRating": "Google Rating",
+    "googleRatingValue": "4.8 (16,786)",
+    "address": "Address",
+    "addressValue": "ul. „Veliko Tarnovo“ 11А, 4000 Plovdiv, Bulgaria",
+    "telephone": "Contact Phone",
+    "telephoneValue": "+359 32 656 500",
+    "accessibility": "Accessibility",
+    "accessibilityValue": "Fully accessible",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "4PRW+JP"
+  },
+  "hours": {
+    "title": "Visiting Hours",
+    "park": "Park Access",
+    "parkTime": "Open year-round, 24/7",
+    "bestTime": "Best Time to Visit",
+    "bestTimeSpring": "Spring: Blooming flowers and pleasant weather",
+    "bestTimeSummer": "Summer: Cool evenings",
+    "bestTimeAutumn": "Autumn: Golden colors and mild temperatures",
+    "bestTimeWinter": "Winter: Peaceful atmosphere",
+    "tip": "Allow 1-2 hours for a full visit. The park is especially beautiful at sunset."
+  },
+  "tickets": {
+    "title": "Admission Information",
+    "park": "Park Admission",
+    "parkPrice": "Free admission",
+    "parking": "Parking",
+    "parkingPrice": "Paid parking nearby",
+    "guided": "Guided Tours",
+    "guidedPrice": "Regular guided tours not available"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromCenter": "From Plovdiv Center",
+    "fromCenterDesc": "The park is located in the city center. Accessible on foot from most central locations.",
+    "fromStation": "By Public Transport",
+    "fromStationDesc": "Buses and trolleybuses stop nearby. Use Plovdiv city transport.",
+    "fromAirport": "From the Airport",
+    "fromAirportDesc": "Plovdiv Airport is about 15 km away. Taxi or bus connects the airport to the center.",
+    "publicTransport": "Public Transport",
+    "publicTransportDesc": "Buses and trolleybuses to Plovdiv city center.",
+    "walking": "Walking",
+    "walkingDesc": "The park is easily accessible on foot from the city center.",
+    "driving": "Driving",
+    "drivingDesc": "Use GPS navigation to ul. „Veliko Tarnovo“ 11A."
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Beauty of Tsar Simeon Garden Park",
+    "captions": [
+      "Water Tower",
+      "Flower alleys",
+      "Historic statues",
+      "Decorative ponds",
+      "Green areas",
+      "Architectural details",
+      "Spring blossoms",
+      "Autumn colors",
+      "Monuments in the park",
+      "Street lamps",
+      "Trees and vegetation",
+      "Rest benches",
+      "Park entrances",
+      "Fountain details",
+      "Walking paths",
+      "Historic objects",
+      "Natural beauty",
+      "Panoramic view"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Reviews can be viewed via Google Maps.",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Ivan P.",
+        "rating": 5,
+        "date": "2026-04-15",
+        "text": "Wonderful park with rich history. The Water Tower is amazing!"
+      },
+      {
+        "name": "Maria K.",
+        "rating": 5,
+        "date": "2026-03-28",
+        "text": "One of the most beautiful parks I have visited. Perfect for a walk."
+      },
+      {
+        "name": "Georgi S.",
+        "rating": 5,
+        "date": "2026-02-10",
+        "text": "Historic atmosphere and beautiful nature. Recommended for all ages."
+      },
+      {
+        "name": "Elena T.",
+        "rating": 4,
+        "date": "2026-01-20",
+        "text": "Lots of greenery and peace. Good place for a family picnic."
+      },
+      {
+        "name": "Peter D.",
+        "rating": 5,
+        "date": "2025-12-05",
+        "text": "Unique park with excellent maintenance. Ideal for a morning walk."
+      },
+      {
+        "name": "Sveta M.",
+        "rating": 5,
+        "date": "2025-11-18",
+        "text": "One of the symbols of Plovdiv. A must-visit place!"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Map Location",
+    "subtitle": "4PRW+JP, 4000 Plovdiv, Bulgaria",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "brandName": "Tsar Simeon Garden Park",
+    "brandSubtitle": "Historic Park · Plovdiv, Bulgaria",
+    "rights": "© 2026 Independent Tourism Research Project · All Rights Reserved.",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official Resources & Information",
+    "officialLinks": {
+      "plovdivCity": "Plovdiv City Municipality",
+      "plovdivRegion": "Plovdiv Regional Administration",
+      "visitPlovdiv": "Visit Plovdiv",
+      "ninkn": "NINKN",
+      "tourismMinistry": "Ministry of Tourism",
+      "cultureMinistry": "Ministry of Culture",
+      "mfaVisa": "MFA - Visa for Bulgaria"
+    },
+    "disclaimer": "This website is an independent third-party tourism information project. We are not affiliated with the local government or any other official agencies."
+  },
+  "officialManagement": {
+    "title": "About Tsar Simeon Garden Park",
+    "text": "Tsar Simeon Garden Park is managed and maintained by Plovdiv Municipality. The park is a protected area under Bulgarian cultural heritage laws."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "Information Collection",
+        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience. This information does not contain your personal identity."
+      },
+      {
+        "heading": "Use of Cookies",
+        "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
+      },
+      {
+        "heading": "Data Security and Protection",
+        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to third-party commercial organizations."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "heading": "Website Content and Use",
+        "content": "This website provides travel, transport, and historical information about Tsar Simeon Garden Park. All content is for reference only. Actual opening hours and attraction information may change at any time; please refer to official announcements."
+      },
+      {
+        "heading": "Intellectual Property",
+        "content": "The text, images, and designs on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial purposes."
+      },
+      {
+        "heading": "Disclaimer",
+        "content": "We strive to ensure the accuracy and timeliness of the information, but we do not assume legal responsibility for travel delays or losses caused directly or indirectly by using the information provided on this website."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Necessary for basic website functionality and cannot be disabled.",
+      "badge": "Always Active"
+    },
+    "analytics": {
+      "title": "Analytics",
+      "description": "Help us understand visitor behavior and improve the website."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Used for cross-site tracking and delivering personalized ads."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences Saved!"
+  }
+}

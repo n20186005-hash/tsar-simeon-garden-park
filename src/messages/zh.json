@@ -1,0 +1,299 @@
+{
+  "meta": {
+    "title": "沙皇西美昂花园 (Tsar Simeon Garden Park) – 普罗夫迪夫, 保加利亚",
+    "description": "沙皇西美昂花园完整旅游指南。了解这个历史公园，包括位置、景点、交通和游览信息。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "沙皇西美昂花园",
+    "subtitle": "历史公园 · 普罗夫迪夫，保加利亚",
+    "rating": "4.8",
+    "reviewCount": "16,786 条评价",
+    "type": "公园",
+    "openMaps": "在Google地图上查看位置",
+    "mapsLink": "https://maps.app.goo.gl/toDts5VqGcTJ4NhLA"
+  },
+  "intro": {
+    "title": "探索沙皇西美昂花园",
+    "description": "沙皇西美昂花园是普罗夫迪夫最美丽和历史最悠久的公园之一。建于19世纪末，它提供了自然美景、历史建筑和文化遗产的独特结合。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "最佳游览时间是春天，那时花朵盛开。",
+        "公园是散步和野餐的理想场所。",
+        "穿舒适的鞋子散步。",
+        "不要错过水塔和历史雕像。"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "亮点",
+      "items": [
+        "19世纪水塔",
+        "美丽的花径",
+        "历史雕像和纪念碑",
+        "广阔的绿地"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "关于沙皇西美昂花园",
+    "sections": [
+      {
+        "id": "history",
+        "title": "历史与创建",
+        "content": "沙皇西美昂花园建于1891-1892年，由著名的瑞士景观建筑师吕西恩·谢里顿设计。公园以沙皇西美昂一世命名，他在9世纪和10世纪统治保加利亚。"
+      },
+      {
+        "id": "architecture",
+        "title": "建筑与设计",
+        "content": "公园按照当时的典型风格设计，拥有宽阔的林荫道、装饰性池塘和多样的植被。建于1891年的水塔是普罗夫迪夫的象征之一。"
+      },
+      {
+        "id": "geography",
+        "title": "位置与自然",
+        "content": "位于普罗夫迪夫市中心，公园占地约18公顷。它在夏季提供凉爽的阴凉处，是当地居民和游客喜爱的散步场所。"
+      },
+      {
+        "id": "protection",
+        "title": "保护与管理",
+        "content": "公园由普罗夫迪夫市政府维护，是受保护的区域。多年来，已进行多次修复工作以保存其历史风貌。"
+      }
+    ]
+  },
+  "faq": {
+    "title": "常见问题解答",
+    "items": [
+      {
+        "question": "公园的开放时间是什么？",
+        "answer": "公园全年对游客开放，每天24小时。没有入场费。"
+      },
+      {
+        "question": "需要门票吗？",
+        "answer": "不，沙皇西美昂花园对所有游客免费开放。"
+      },
+      {
+        "question": "有导游服务吗？",
+        "answer": "可以独立探索公园。关键信息处设有多种语言的指示牌。"
+      },
+      {
+        "question": "轮椅使用者可以进入吗？",
+        "answer": "是的，主要小径平坦，可供轮椅通行。还有专门为行动不便人士设计的路径。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "沙皇西美昂花园 („Цар Симеонова градина“)",
+    "type": "景点类型",
+    "typeValue": "历史公园 / 花园",
+    "country": "国家",
+    "countryValue": "保加利亚 (Bulgaria)",
+    "city": "城市",
+    "cityValue": "普罗夫迪夫 (Plovdiv)",
+    "googleRating": "谷歌评分",
+    "googleRatingValue": "4.8 (16,786)",
+    "address": "地址",
+    "addressValue": "ул. „Велико Търново“ 11А, 4000 Пловдив, България",
+    "telephone": "联系电话",
+    "telephoneValue": "+359 32 656 500",
+    "accessibility": "无障碍设施",
+    "accessibilityValue": "完全无障碍",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "4PRW+JP"
+  },
+  "hours": {
+    "title": "开放时间",
+    "park": "公园访问",
+    "parkTime": "全年开放，24/7",
+    "bestTime": "最佳游览时间",
+    "bestTimeSpring": "春季：鲜花盛开，天气宜人",
+    "bestTimeSummer": "夏季：傍晚凉爽",
+    "bestTimeAutumn": "秋季：金色树叶，温度温和",
+    "bestTimeWinter": "冬季：宁静的氛围",
+    "tip": "建议游览1-2小时。公园在日落时分特别美丽。"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "park": "公园入场",
+    "parkPrice": "免费入场",
+    "parking": "停车",
+    "parkingPrice": "附近付费停车",
+    "guided": "导游服务",
+    "guidedPrice": "不提供定期导游服务"
+  },
+  "transport": {
+    "title": "交通指南",
+    "fromCenter": "从普罗夫迪夫市中心",
+    "fromCenterDesc": "公园位于市中心。从大多数中心位置步行即可到达。",
+    "fromStation": "公共交通",
+    "fromStationDesc": "公交车和无轨电车在附近停靠。使用普罗夫迪夫城市交通。",
+    "fromAirport": "从机场",
+    "fromAirportDesc": "普罗夫迪夫机场约15公里。出租车或公交车连接机场和市中心。",
+    "publicTransport": "公共交通",
+    "publicTransportDesc": "公交车和无轨电车到普罗夫迪夫市中心。",
+    "walking": "步行",
+    "walkingDesc": "从市中心步行即可轻松到达公园。",
+    "driving": "自驾",
+    "drivingDesc": "使用GPS导航到 ул. „Велико Търново“ 11А。"
+  },
+  "gallery": {
+    "title": "照片画廊",
+    "subtitle": "沙皇西美昂花园之美",
+    "captions": [
+      "水塔",
+      "花径",
+      "历史雕像",
+      "装饰池塘",
+      "绿地",
+      "建筑细节",
+      "春花",
+      "秋色",
+      "公园内的纪念碑",
+      "街灯",
+      "树木和植被",
+      "休息长椅",
+      "公园入口",
+      "喷泉细节",
+      "散步小径",
+      "历史物件",
+      "自然美景",
+      "全景视图"
+    ],
+    "viewAll": "在Google地图上查看位置",
+    "showAll": "显示完整照片",
+    "showLess": "收起照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可通过Google地图查看。",
+    "moreReviews": "在Google地图上查看更多评价",
+    "items": [
+      {
+        "name": "伊万 P.",
+        "rating": 5,
+        "date": "2026-04-15",
+        "text": "美丽的公园，拥有丰富的历史。水塔令人惊叹！"
+      },
+      {
+        "name": "玛丽亚 K.",
+        "rating": 5,
+        "date": "2026-03-28",
+        "text": "我参观过的最美丽的公园之一。完美的散步场所。"
+      },
+      {
+        "name": "格奥尔基 S.",
+        "rating": 5,
+        "date": "2026-02-10",
+        "text": "历史氛围和美丽的自然。推荐所有年龄段的人参观。"
+      },
+      {
+        "name": "埃琳娜 T.",
+        "rating": 4,
+        "date": "2026-01-20",
+        "text": "很多绿植和宁静。适合家庭野餐的好地方。"
+      },
+      {
+        "name": "彼得 D.",
+        "rating": 5,
+        "date": "2025-12-05",
+        "text": "独特的公园，维护良好。早晨散步的理想场所。"
+      },
+      {
+        "name": "斯维特拉娜 M.",
+        "rating": 5,
+        "date": "2025-11-18",
+        "text": "普罗夫迪夫的象征之一。必游之地！"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "4PRW+JP, 4000 Пловдив, България",
+    "openMaps": "在Google地图上查看位置"
+  },
+  "footer": {
+    "brandName": "沙皇西美昂花园",
+    "brandSubtitle": "历史公园 · 普罗夫迪夫，保加利亚",
+    "rights": "© 2026 独立旅游研究项目 · 保留所有权利。",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "官方资源与资讯",
+    "officialLinks": {
+      "plovdivCity": "普罗夫迪夫市政府",
+      "plovdivRegion": "普罗夫迪夫州政府",
+      "visitPlovdiv": "普罗夫迪夫市旅游局",
+      "ninkn": "保加利亚文化遗产研究所",
+      "tourismMinistry": "保加利亚共和国旅游部",
+      "cultureMinistry": "保加利亚文化部",
+      "mfaVisa": "外交部领事服务局 (签证专属)"
+    },
+    "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
+  },
+  "officialManagement": {
+    "title": "关于沙皇西美昂花园",
+    "text": "沙皇西美昂花园由普罗夫迪夫市政府管理和维护。该公园受保加利亚文化遗产法保护。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "信息收集",
+        "content": "当您访问我们的网站时，我们可能会自动收集有关您的设备、浏览器和浏览行为的基本信息，以提供更好的用户体验。此信息不包含您的个人身份。"
+      },
+      {
+        "heading": "Cookie的使用",
+        "content": "我们使用cookie来分析网站流量并优化页面内容。您可以随时通过网站底部的\"Cookie设置\"选项管理您的偏好。"
+      },
+      {
+        "heading": "数据安全与保护",
+        "content": "我们致力于保护您的隐私数据安全，不会将您的浏览数据出售、出租或交易给第三方商业组织。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "heading": "网站内容与使用",
+        "content": "本网站提供有关沙皇西美昂花园的旅游、交通和历史信息。所有内容仅供参考。实际开放时间和景点信息可能随时更改；请参考官方公告。"
+      },
+      {
+        "heading": "知识产权",
+        "content": "本网站上的文本、图像和设计受版权保护。未经明确书面许可，任何人不得将网站内容用于商业目的。"
+      },
+      {
+        "heading": "免责声明",
+        "content": "我们努力确保信息的准确性和及时性，但对于因使用本网站提供的信息而直接或间接导致的旅行延误或损失，我们不承担法律责任。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "管理您的 Cookie 偏好。",
+    "essential": {
+      "title": "必要的 Cookie",
+      "description": "基本网站功能所必需的，无法禁用。",
+      "badge": "始终开启"
+    },
+    "analytics": {
+      "title": "分析",
+      "description": "帮助我们了解访问者行为并改进网站。"
+    },
+    "marketing": {
+      "title": "营销",
+      "description": "用于跨站跟踪和提供个性化广告。"
+    },
+    "save": "保存偏好",
+    "saved": "偏好已保存！"
+  }
+}
