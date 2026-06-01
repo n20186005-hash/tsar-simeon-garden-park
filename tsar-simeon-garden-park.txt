@@ -1,0 +1,161 @@
+tsar-simeon-garden-park
+
+
+
+我们网站是
+XXXXXXXXXX
+检查一遍看下是否有错误
+
+丰富下页面内容现在的内容还是太薄的了
+
+
+
+你正在用（Next.js开发）
+为一个新景点【 “Tsar Simeon Garden”Park 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文和英文双语言
+
+tsar-simeon-garden-park
+保加利亚
+普罗夫迪夫州	“Tsar Simeon Garden” Park
+
+„Цар Симеонова градина“
+4.8(16,786)
+公园
+
+Plovdiv Center, ul. "Veliko Tarnovo" 11А, 4000 Plovdiv, 保加利亚
+4PRW+JP 普罗夫迪夫 保加利亚
+
+https://maps.app.goo.gl/toDts5VqGcTJ4NhLA
+
+首屏背景图要引用以下
+
+C:\Users\Administrator\Downloads\保加利亚\tsar-simeon-garden-park\public\gallery
+
+
+删除原先友情链接，新增以下友情链接
+
+普罗夫迪夫市政府
+https://www.plovdiv.bg/
+普罗夫迪夫州政府
+https://pd.government.bg/
+普罗夫迪夫市旅游局
+http://www.visitplovdiv.com/
+保加利亚文化遗产研究所 (NINKN)
+http://ninkn.bg/
+保加利亚共和国旅游部
+https://www.tourism.government.bg/
+保加利亚文化部
+https://mc.government.bg/
+保加利亚共和国外交部领事服务局 (签证专属)
+https://www.mfa.bg/en/services-travel/consular-services/travel-bulgaria/visa-bulgaria/
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/toDts5VqGcTJ4NhLA
+页面一共四个链接每一个都需要修改
+
+
+照片画廊
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+检查照片名称是否正确并修正
+
+
+删除 探索更多 板块
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/toDts5VqGcTJ4NhLA
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/toDts5VqGcTJ4NhLA
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/toDts5VqGcTJ4NhLA
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/toDts5VqGcTJ4NhLA
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+新增
+保加利亚语（Български）
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+
+
+
+
+买域名推荐
+
+
+
+
+我们网站是
+检查下有没有错误
+
+塞浦路斯利马索尔	Κourion Ancient Amphitheater
+Αρχαίο Θέατρο Κουρίου
+4.7(6,274)
+纪念碑
+MV7Q+P49, Episkopi Lemesou 4620塞浦路斯
++35725934250
+https://maps.app.goo.gl/KxwFywyG12yxtgsF9
+给我五个国家级、大区级、市级到专业遗产数据库的完整链条
+
+严格限制为国家及地方政府官方、官方官方旅游局的网站友情链接，确保全部具备纯正的官方政府背景： 
+
+
+
+
+
+
+
+
+为确保信息来源的绝对权威性与纯正的政府背景，针对塞浦路斯**库里翁古剧场（Kourion Ancient Amphitheater）**，以下为您梳理出从国家文物及旅游最高管理部门，下沉至大区、市级（属地社区），最终至专业考古与遗产数据库的**五个完整层级**的官方链条：
+
+### 1. 国家级（行政最高管辖与文物保护）
+
+**塞浦路斯共和国文化副部 - 古物局（Department of Antiquities, Deputy Ministry of Culture）**
+
+* **机构背景**：塞浦路斯全国各类考古遗迹、古纪念碑及专业博物馆的最高官方统筹机构。直接负责库里翁遗址（Kourion Archaeological Site）的考古发掘监督、日常物理保护以及古物法律法规的执行。
+* **官方网址**：[http://www.mcw.gov.cy/mcw/da/da.nsf/](http://www.mcw.gov.cy/mcw/da/da.nsf/)
+
+### 2. 国家级（官方旅游与国家名片展示）
+
+**塞浦路斯国家旅游副部（Deputy Ministry of Tourism - Visit Cyprus）**
+
+* **机构背景**：代表塞浦路斯国家政府向全球推介国家遗产的最高官方旅游局。在其名录中，将库里翁古剧场单设高规格官方专页，提供多语种的官方导览路线、开放时间指引与历史年代的定调。
+* **库里翁专页**：[https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/240-kourion-archaeological-site](https://www.google.com/search?q=https://www.visitcyprus.com/index.php/en/discovercyprus/culture/sites-monuments/240-kourion-archaeological-site)
+
+### 3. 大区级（区域资源统筹与行政协同）
+
+**利马索尔大区官方旅游局（Limassol Tourism Board）**
+
+* **机构背景**：由利马索尔大区政府、大区内各市镇联合发起成立的官方区域性旅游管理机构。主要负责将大区内的古迹（如库里翁、阿马苏斯）与当代都市旅游资源进行空间和交通网络上的串联。
+* **官方网址**：[https://www.limassoltourism.com/](https://www.limassoltourism.com/)
+
+### 4. 市/地方级（遗址属地行政机构）
+
+**埃皮斯科皮社区委员会（Episkopi Community Council / Κοινοτικό Συμβούλιο Επισκοπής）**
+
+* **机构背景**：库里翁古剧场在地理区划上直属于利马索尔大区的 Episkopi（埃皮斯科皮）管辖。作为最基层的官方政府，该地方委员会负责遗址周边的市政基础设施建设（如外围道路、当地水力系统以及地区性安防），同时运营有与其紧密相关的埃皮斯科皮当地小型考古博物馆。
+* **官方网址**：[https://www.episkopi.org.cy/](https://www.google.com/search?q=https://www.episkopi.org.cy/)
+
+### 5. 专业遗产级（官方考古空间信息系统）
+
+**塞浦路斯古物数字化平台（CADiP - Cyprus Antiquities Digital Platform） / 欧洲数字文化遗产平台（Europeana）**
+
+* **机构背景**：由塞浦路斯政府与欧盟联合资助建设的专业 GIS 遗产保护信息平台。它记录了库里翁出土的各类石刻、钱币、马赛克地砖以及建筑测量数据的全数字卷宗。其公开档案会由塞浦路斯官方上传至欧盟的公共遗产网（Europeana）以供学术研究和国际数据归档。
+* **官方欧盟馆藏（塞浦路斯古物局目录）**：[https://www.europeana.eu/](https://www.europeana.eu/) *(注：因内部数据库 CADiP 的 GIS 全限仅对政府及注册学者开放，外部公众和专业检索统一通过该欧盟官方联合接口访问)*。
+
+
+
+
+
+
+
+
+
+
+
