@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: '*',
       allow: '/',
     },
-    sitemap: 'https://kourionamphitheater.com/sitemap.xml',
+    sitemap: 'https://tsarsimeongardenplovdiv.com/sitemap.xml',
   };
 }

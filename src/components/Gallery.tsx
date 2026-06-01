@@ -113,7 +113,12 @@ export default function Gallery() {
               </>
             )}
 
-            <div className="flex justify-center mt-6 gap-4 items-center">
+            <div className="flex flex-col sm:flex-row justify-center mt-6 gap-2 sm:gap-4 items-center">
+              {t.has('viewMoreDesc') && (
+                <span className="text-sm" style={{ color: 'var(--text-muted)' }}>
+                  {t('viewMoreDesc')}
+                </span>
+              )}
               <a
                 href={mapsLink}
                 target="_blank"
